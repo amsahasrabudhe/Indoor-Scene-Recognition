@@ -1,1 +1,1 @@
-# Indoor-scene-Recognition
+# Indoor Scene Recognition
