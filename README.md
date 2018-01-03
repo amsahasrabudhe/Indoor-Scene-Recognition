@@ -1,1 +1,1 @@
-# CNN-for-Indoor-scene-Recognition
+# Indoor-scene-Recognition
