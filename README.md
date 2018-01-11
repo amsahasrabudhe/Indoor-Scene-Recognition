@@ -5,8 +5,8 @@ from Google Images for testing purposes.
 
 The repository contains 2 folders:
 
-1) CNN from scratch.
+1) CNN from scratch: 
     This folder contains code for the CNN model implemented from scratch which gives accuracy of about 77.67% .
     
-2) CNN using Transfer Learning
+2) Transfer Learning: 
     This folder contains code for CNN model developed using transfer learning. Some layers of AlexNet were used for transfer learning. This gave accuracy of around 91.33% .
